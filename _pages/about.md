@@ -16,7 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am a first-year graduate student of China Three Gorges University. My research interests include deep learning and object detection.I am very fortunate to be advised by [Prof. Wenbin Wang](https://wbwang17.github.io/)  from the School of Computer and Information Science, China Three Gorges University.
+<h3>Welcome!</h3>
+
+I am Qiwen Gong! Currently I am a first-year graduate student of China Three Gorges University. My research interests include deep learning, object detection and scene graph.I am very fortunate to be advised by [Prof. Wenbin Wang](https://wbwang17.github.io/)  from the School of Computer and Information Science, China Three Gorges University.
 
 # 📝 Publications 
 Fighting....
